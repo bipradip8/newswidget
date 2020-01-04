@@ -1,0 +1,36 @@
+.Article {
+    width: 60%;
+    margin: auto;
+    border: 0.2rem solid #eee;
+    box-shadow: 0 .2rem .3rem #ccc;
+    padding: 1.6rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.article_image{
+    width: 100%;
+    height: 100%;
+}
+.article_row{
+    padding: 2rem 0;
+    margin: 2rem 0;
+    border: 0.3rem solid #eee;
+    box-shadow: 0 .2rem .3rem #ccc;
+}
+
+.title{
+    font-size: larger;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.desc{
+    text-align: justify;
+}
+

@@ -1,0 +1,28 @@
+.newswidget {
+    background-color: white;
+    padding: 5rem 2rem 2rem 2rem;
+    margin-bottom: 5rem;
+    border: 0.5rem solid #eee;
+    box-shadow: 0 .2rem .3rem #ccc;
+}
+
+.news_block{
+    padding: 4rem 0rem;
+}
+
+.search_input{
+    width: 75%;
+    height: 90%;
+    padding: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 200;
+    border-radius: 15px; 
+}
+
+.search_button{
+    width: 50%;
+    height: 80%;
+    border-radius: 15px;
+    
+}
